@@ -1,2 +1,2 @@
-# testGo
-test du langage go
+# Go
+Implémentation d'un système de banque en langage Go
